@@ -1,0 +1,177 @@
+
+body {
+    margin: 0;
+    background:black;
+    font-family: "Tiro Gurmukhi"
+    font-weight: 250
+  }
+  
+  /* STYLE TEXT */
+  
+  .h1 {
+    <link href="https://fonts.googleapis.com/css2?family=Tiro+Gurmukhi#standard-style"
+     color: #ffffff;
+  }
+  
+  .container {
+    width:; 80%;
+    margin: 0 auto;
+  }
+  
+  header {
+      background: #000000;
+  }
+  
+  header::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  
+  .logo {
+    margin-left: 70px;
+    padding-top: 10px;
+  }
+  
+  nav {
+    float: right;
+    margin-right: 70px;
+    text-shadow:1px 1px #8f6bd1;
+  }
+  
+  nav ul {
+    margin: 10;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 10px;
+  
+    position: relative;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+  }
+  
+  nav a:hover  {
+    color: #ffffff;
+  }
+  
+  nav a: :before {
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #fff
+     
+    top: 0%
+    width: 0%;
+   
+  
+    transition: all ease-in-out 250ms;  
+  }
+  
+  nav a: hover: :before {
+    width: 100%:
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-left: 70px;
+    padding-top: 50px
+  }
+  
+  p {
+    font-size: 35px;
+    margin-left: 70px;
+    color: #ffffffff
+  }
+  
+  .sing img{
+    float: right;
+    height: -1000px;
+    margin-right: -70px;
+    font-weight:250
+  }
+  
+  .Center {
+    display: block;
+    margin-left: 70px;
+    width: 80%;
+  }
+  
+  .Center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+   
+  .space {
+   float: right;
+   border: thin silver solid;
+   margin: 0.5em;
+   padding: 0.5em;
+  
+   
+  }
+  
+  .pack {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    boarder
+    width: 50%;
+    border: thin silver solid;
+  }
+  
+  .Cat{
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+   
+  }
+  
+  .home {
+    color: #fff
+    text-shadow:1px 1px #a294bc;
+  
+  }
+  
+  .game {
+   
+  color: #fff;
+   
+  }
+  
+  a[href] {
+  
+  
+    color: #ffffff;
+  
+  
+  }
+  
+  .date{
+    color: #ffffff;
+   
+  }
+  
+  .h8 {
+    font-family: "Tiro Gurmukhi"
+    font-weight: 250
+     text-shadow:1px 1px #a294bc;
+  }
